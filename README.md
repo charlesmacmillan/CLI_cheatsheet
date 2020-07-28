@@ -23,3 +23,5 @@ removes specified file from current directory
 * __$ rm -rf directory_name__
 force removes specified directory as well as all files within
 
+* __$ mv ~/location/file_name.txt ~/new_location/*new_file_name*.txt__  
+moves a file from one directory to another, and can change the file name if specified to do so 
